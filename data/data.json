@@ -1,0 +1,291 @@
+{
+    "products": [
+      {
+        "availableSizes": [
+          {
+            "sizeId": "sizeXS",
+            "sizeSize": "XS",
+            "sizeQuantity": 10
+          },
+          {
+            "sizeId": "sizeS",
+            "sizeSize": "S",
+            "sizeQuantity": 15
+          },
+          {
+            "sizeId": "sizeM",
+            "sizeSize": "M",
+            "sizeQuantity": 20
+          },
+          {
+            "sizeId": "sizeL",
+            "sizeSize": "L",
+            "sizeQuantity": 20
+          },
+          {
+            "sizeId": "sizeXL",
+            "sizeSize": "XL",
+            "sizeQuantity": 20
+          },
+          {
+            "sizeId": "sizeXXL",
+            "sizeSize": "XXL",
+            "sizeQuantity": 20
+          }
+        ],
+        "currencyFormat": "€",
+        "currencyId": "EUR",
+        "description": "Classic white t-shirt for everyday use",
+        "id": 0,
+        "isFreeShipping": true,
+        "price": 10.95,
+        "title": "White T-shirt",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dCUyMHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "availableSizes": [
+          {
+            "sizeId": "sizeXS1",
+            "sizeSize": "XS",
+            "sizeQuantity": 10
+          },
+          {
+            "sizeId": "sizeS1",
+            "sizeSize": "S",
+            "sizeQuantity": 15
+          },
+          {
+            "sizeId": "sizeM1",
+            "sizeSize": "M",
+            "sizeQuantity": 20
+          }
+        ],
+        "currencyFormat": "€",
+        "currencyId": "EUR",
+        "description": "Cool Leave The Road T-shirt",
+        "id": 1,
+        "isFreeShipping": true,
+        "price": 9.65,
+        "title": "Leave The Road",
+        "image": "https://images.unsplash.com/photo-1554568218-0f1715e72254?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dCUyMHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "availableSizes": [
+          {
+            "sizeId": "sizeXS2",
+            "sizeSize": "XS",
+            "sizeQuantity": 10
+          },
+          {
+            "sizeId": "sizeS2",
+            "sizeSize": "S",
+            "sizeQuantity": 15
+          },
+          {
+            "id": "sizeM2",
+            "sizeSize": "M",
+            "sizeQuantity": 20
+          }
+        ],
+        "currencyFormat": "€",
+        "currencyId": "EUR",
+        "description": "Black T-shirt with text",
+        "id": 2,
+        "isFreeShipping": false,
+        "price": 7.05,
+        "title": "Yireh black T-shirt",
+        "image": "https://images.unsplash.com/photo-1583744946564-b52ac1c389c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "availableSizes": [
+          {
+            "sizeId": "sizeXS3",
+            "sizeSize": "XS",
+            "sizeQuantity": 10
+          },
+          {
+            "sizeId": "sizeS3",
+            "sizeSize": "S",
+            "sizeQuantity": 15
+          },
+          {
+            "sizeId": "sizeM3",
+            "sizeSize": "M",
+            "sizeQuantity": 20
+          }
+        ],
+        "currencyFormat": "€",
+        "currencyId": "EUR",
+        "description": "Stylish pink T-shirt for every man",
+        "id": 3,
+        "isFreeShipping": true,
+        "price": 12.35,
+        "title": "Just Culture T-shirt",
+        "image": "https://images.unsplash.com/photo-1622470953794-aa9c70b0fb9d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "availableSizes": [
+          {
+            "sizeId": "sizeXS4",
+            "sizeSize": "XS",
+            "sizeQuantity": 10
+          },
+          {
+            "sizeId": "sizeS4",
+            "sizeSize": "S",
+            "sizeQuantity": 15
+          },
+          {
+            "sizeId": "sizeM4",
+            "sizeSize": "M",
+            "sizeQuantity": 20
+          }
+        ],
+        "currencyFormat": "€",
+        "currencyId": "EUR",
+        "description": "White T-shirt with savage text",
+        "id": 4,
+        "isFreeShipping": true,
+        "price": 10.99,
+        "title": "Social Savage",
+        "image": "https://images.unsplash.com/photo-1616006897093-5e4635c0de35?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "availableSizes": [
+          {
+            "sizeId": "sizeXS5",
+            "sizeSize": "XS",
+            "sizeQuantity": 10
+          },
+          {
+            "sizeId": "sizeS5",
+            "sizeSize": "S",
+            "sizeQuantity": 15
+          },
+          {
+            "sizeId": "sizeM5",
+            "sizeSize": "M",
+            "sizeQuantity": 20
+          }
+        ],
+        "currencyFormat": "€",
+        "currencyId": "EUR",
+        "description": "White T-shirt Tay Son",
+        "id": 5,
+        "isFreeShipping": true,
+        "price": 15.05,
+        "title": "Ty Son white",
+        "image": "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "availableSizes": [
+          {
+            "sizeId": "sizeXS6",
+            "sizeSize": "XS",
+            "sizeQuantity": 10
+          },
+          {
+            "sizeId": "sizeS6",
+            "sizeSize": "S",
+            "sizeQuantity": 15
+          },
+          {
+            "sizeId": "sizeM6",
+            "sizeSize": "M",
+            "sizeQuantity": 20
+          }
+        ],
+        "currencyFormat": "€",
+        "currencyId": "EUR",
+        "description": "Classic Black T-shirt",
+        "id": 6,
+        "isFreeShipping": true,
+        "price": 7.99,
+        "title": "Black T-shirt",
+        "image": "https://images.unsplash.com/photo-1618517351616-38fb9c5210c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "availableSizes": [
+          {
+            "sizeId": "sizeXS7",
+            "sizeSize": "XS",
+            "sizeQuantity": 10
+          },
+          {
+            "sizeId": "sizeS7",
+            "sizeSize": "S",
+            "sizeQuantity": 15
+          },
+          {
+            "sizeId": "sizeM7",
+            "sizeSize": "M",
+            "sizeQuantity": 20
+          }
+        ],
+        "currencyFormat": "€",
+        "currencyId": "EUR",
+        "description": "T-shirt with text",
+        "id": 7,
+        "isFreeShipping": true,
+        "price": 10.99,
+        "title": "T-shirt with text",
+        "image": "https://images.unsplash.com/photo-1623113562225-694f6a2ee75e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "availableSizes": [
+          {
+            "sizeId": "sizeXS8",
+            "sizeSize": "XS",
+            "sizeQuantity": 10
+          },
+          {
+            "sizeId": "sizeS8",
+            "sizeSize": "S",
+            "sizeQuantity": 15
+          },
+          {
+            "sizeId": "sizeM8",
+            "sizeSize": "M",
+            "sizeQuantity": 20
+          }
+        ],
+        "currencyFormat": "€",
+        "currencyId": "EUR",
+        "description": "Red T-shirt",
+        "id": 8,
+        "isFreeShipping": true,
+        "price": 5.85,
+        "title": "T-shirt in red color",
+        "image": "https://plus.unsplash.com/premium_photo-1682092846845-d41a89d3ce8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "availableSizes": [
+          {
+            "sizeId": "sizeXS9",
+            "sizeSize": "XS",
+            "sizeQuantity": 10
+          },
+          {
+            "sizeId": "sizeS9",
+            "sizeSize": "S",
+            "sizeQuantity": 15
+          },
+          {
+            "sizeId": "sizeM9",
+            "sizeSize": "M",
+            "sizeQuantity": 20
+          }
+        ],
+        "currencyFormat": "€",
+        "currencyId": "EUR",
+        "description": "Always T-shirt",
+        "id": 9,
+        "isFreeShipping": true,
+        "price": 6.55,
+        "title": "Cool T-shirt",
+        "image": "https://images.unsplash.com/photo-1625728273603-0404614abb7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTY2fHx0JTIwc2hpcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+      }
+  
+    ]
+  }
+  
