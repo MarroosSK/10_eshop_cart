@@ -22,7 +22,7 @@ export const fetchProducts = createAsyncThunk(
   "products/fetchProducts",
   async () => {
     const response = await axios.get<ProductType[]>(
-      "http://localhost:8000/products"
+      "https://one0-eshop-api.onrender.com/products"
     );
     return response.data;
   }
